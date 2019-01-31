@@ -1,2 +1,9 @@
-# Nodehw-bamazon
-Node.js &amp; MySQL Overview  In this activity, you'll be creating an Amazon-like storefront with the MySQL skills you learned this week. The app will take in orders from customers and deplete stock from the store's inventory. As a bonus task, you can program your app to track product sales across your store's departments and then provide a summary of the highest-grossing departments in the store.
+# Week 5 homework assignment:
+### Trivia Game
+
+Basic Assignment User Story
+
+* I created a basic trivia game with multiple choice or true/false options.
+* The player will have a limited time length to finish the game. When the time runs out (regardless of whether or not they finished), the game will end and they will be shown the number of answers they got correct and incorrect.
+* There will be a counter counting down the remaining time.
+* The player should NOT be able to pick more than one answer for each question.
