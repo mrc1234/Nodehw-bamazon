@@ -6,7 +6,7 @@ var totalPrice = 0;
 // Create the Connection to the DB //
 var connection = mysql.createConnection({
     host: "localhost",
-    port: 3300,
+    port: 3307,
 
     user: "root",
     password: "root",

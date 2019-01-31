@@ -8,11 +8,11 @@ var totalPrice = 0;
 
 var connection = mysql.createConnection({
     host: "localhost",
-    port: 3300,
+    port: 3306,
 
     user: "root",
     password: "root",
-    database: "bamazon_DB"
+    database: "bamazon_db"
 });
 
 // Connect to SQL server and SQL DB
