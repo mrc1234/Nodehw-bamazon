@@ -15,8 +15,8 @@ product VARCHAR(100) NOT NULL,
 );
 
 
-INSERT INTO products (product, department, price, quanity)
-VALUES ("iphone8", "phones", 800, 39);
+-- INSERT INTO products (product, department, price, quanity)
+-- VALUES ("iphone8", "phones", 800, 39), ("iphone7", "phones", 550, 12); // insert multiple rows
 
 INSERT INTO products (product, department, price, quanity)
 VALUES ("iphone7", "phones", 550, 12);
